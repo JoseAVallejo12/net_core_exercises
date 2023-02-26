@@ -138,7 +138,7 @@ namespace console_test_code.Exercices
 
         private static void PrintMessage(string message)
         {
-            Console.WriteLine($"invalid Value: {message}");
+            Console.WriteLine(message);
         }
     }
 }
