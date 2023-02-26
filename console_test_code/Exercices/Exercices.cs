@@ -48,7 +48,6 @@ namespace console_test_code.Exercices
             catch (FormatException e)
             {
                 PrintMessage(e.Message);
-
             }
         }
 
@@ -69,7 +68,6 @@ namespace console_test_code.Exercices
                 else
                 {
                     PrintMessage("The image is landscape.");
-
                 }
 
             }
